@@ -1,0 +1,18 @@
+"language_name" = "한국어";
+
+"auth_menu_signed_as" = "로그인한 계정";
+"auth_menu_my_apps" = "내 앱들";
+
+"auth_login_open" = "텔레그램으로 열기";
+"auth_login_help" = "그리고... START를 누르세요!";
+"auth_login_alt" = "또는 아래의 메세지를 ";
+
+"auth_scopes_basic" = "당신 계정의 기본적 정보";
+"auth_scopes_email" = "당신의 이메일";
+"auth_scopes_avatar" = "당신의 프로필 사진";
+
+"auth_logout" = "로그아웃";
+"auth_requesting" = "이 앱은 다음의 정보를 가져갑니다.";
+"auth_continue_as" = "이 앱으로 계속: ";
+"auth_cancel" = "취소";
+"auth_security_note" = "이 앱은 당신의 채팅과 연락처를 볼 수 없습니다.";
